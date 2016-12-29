@@ -37,4 +37,3 @@ You should see rplidar's scan result in the console
 RPLidar frame
 =====================================================================
 RPLidar frame must be broadcasted according to picture shown in
-hhhhelloworldrplidar-frame.png
